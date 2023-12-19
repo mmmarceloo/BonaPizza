@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@*<div class="text-center">
+    <h1 class="display-4">Cardápio</h1>
+    <h5>
+        <img src="~/img/WhatsApp_Logo_PNG_Sem_Fundo_Transparente.png" id="miniatura-foto" class="miniatura-texto" onclick="mandaWhats()">
+        Faça seu pedido 
+    </h5>
+    <img src="~/img/WhatsApp_Logo_PNG_Sem_Fundo_Transparente.png" id="miniatura-foto" class="miniatura" onclick="mandaWhats()">
+    <img src="~/cardapio/4fbd5e85_1.png" alt="Pagina1" width="100%">
+    <img src="~/cardapio/cardapio_1.jpg" alt="Pagina1" width="100%">
+    <img src="~/cardapio/4fbd5e85_1.png" alt="Pagina1" width="90%">
+
+
+    <h2>Entre em Contato Conosco</h2>
+       <img src="~/img/WhatsApp_Logo_PNG_Sem_Fundo_Transparente.png" id="miniatura-foto" class="miniatura-texto" onclick="mandaWhats()">
+
+</div>*@
+<script>
+    window.location.href = "https://app.anota.ai/bona-pizza-pizza-e-esfihas?from=msa&utm_source=portal-share-btn";
+    function mandaWhats() {
+    // Substitua 'URL_DA_SUA_PAGINA' pela URL para onde deseja redirecionar
+        var texto = "Boa noite, acabei de ver o cardápio online e gostaria de fazer um pedido ou tirar algumas dúvidas."
+        var urlDesejada = `https://api.whatsapp.com/send?phone=55(11)966441357&text=${texto}`;
+    
+    // Use window.location.href para redirecionar o navegador para a URL
+    window.location.href = urlDesejada;
+}
+</script>

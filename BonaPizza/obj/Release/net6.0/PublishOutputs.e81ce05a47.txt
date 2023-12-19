@@ -1,0 +1,11 @@
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\BonaPizza.exe
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\Cardapio.pdf
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\BonaPizza.dll
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\BonaPizza.deps.json
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\BonaPizza.runtimeconfig.json
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\BonaPizza.pdb
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\MySqlConnector.dll
+C:\Users\porca\Desktop\Natanael com Isma\BonaPizza\BonaPizza\obj\Release\net6.0\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
